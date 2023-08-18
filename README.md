@@ -13,8 +13,7 @@ _Create a GitHub Action and use it in a workflow._ 🔥🔥🔥
 
 </header>
 
-https://github.com/mrzohaibkhan/GitHubActions01/actions/workflows/welcome.yml/badge.svg
-
+![example workflow](https://github.com/mrzohaibkhan/GitHubActions01/actions/workflows/welcome.yml/badge.svg)
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
